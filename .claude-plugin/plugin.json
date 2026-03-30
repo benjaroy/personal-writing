@@ -1,0 +1,10 @@
+{
+  "name": "personal-writing",
+  "version": "1.0.0",
+  "description": "Six skills to help people write personal essays.",
+  "author": {
+    "name": "Ben Roy"
+  },
+  "license": "MIT",
+  "keywords": ["writing", "essay", "personal writing", "editing", "creative writing"]
+}
