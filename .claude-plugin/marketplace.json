@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "personal-writing",
-      "source": ".",
+      "source": "./",
       "description": "Six skills to help people write personal essays.",
       "version": "1.0.0",
       "author": {
