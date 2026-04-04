@@ -2,7 +2,7 @@
 
 **What is this?**
 
-Benroy Writing is a plugin for Claude that offers users a toolkit to help with the process of writing essays. There are eight skills: Sort, Sequence, Compose, Critique, Revise, Copy Edit, Title, and Checkpoint. Together, they contain almost everything I know about writing. Each skill works on its own, but all the skills are also designed to work together in a chain, and each skill points you toward the next logical step when it makes sense.
+This plugin offers a toolkit to help with the process of writing personal essays. There are eight skills: Sort, Sequence, Compose, Critique, Revise, Copy Edit, Title, and Checkpoint. Together, they contain almost everything I know about writing. Each skill works on its own, but all the skills are also designed to work together in a chain, and each skill points you toward the next logical step when it makes sense.
 
 **Why does this exist?**
 
