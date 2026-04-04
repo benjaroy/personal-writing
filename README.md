@@ -1,4 +1,4 @@
-# Benroy Writing
+# A Claude Plugin for Writing Personal Essays
 
 **What is this?**
 
