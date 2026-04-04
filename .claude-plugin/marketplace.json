@@ -1,13 +1,13 @@
 {
-  "name": "personal-writing",
+  "name": "benroy-writing",
   "owner": {
     "name": "Ben Roy"
   },
   "plugins": [
     {
-      "name": "personal-writing",
-      "source": "./personal-writing",
-      "description": "Seven skills to help people write personal essays.",
+      "name": "benroy-writing",
+      "source": "./benroy-writing",
+      "description": "Eight skills to help people write personal essays.",
       "author": {
         "name": "Ben Roy"
       },
