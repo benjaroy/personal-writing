@@ -16,23 +16,23 @@ This skill takes raw, unstructured material like notes, bullet points, or voice 
 
 ### /sequence
 
-This skill takes sorted points and helps you figure out how to arrange them into an essay. Before proposing structures, it asks a lightweight question about your intentions i.e. whether you're primarily trying to make an argument, work through something personal, tell a story, explain a concept, or if you aren't sure yet. Then it checks for structural tensions in the material (like competing throughlines or changes in tone or point of view), and it proposes one to three structural options depending on what the material supports. When you've picked a direction, it points you toward /compose.
+This skill takes sorted points and helps you figure out how to arrange them into an essay. Before proposing structures, it asks what's driving you to write: whether you want to make an argument, tell a story, explain something, or aren't sure yet. If it detects a genuine structural tension in the material (like competing throughlines or a significant tonal imbalance), it'll ask one targeted follow-up to help you choose a direction. Then it proposes one to three structural options depending on what the material supports. When you've picked a direction, it points you toward /compose.
 
 ### /compose
 
-This skill writes a full personal essay from structured notes in your voice. The first time it gets used, it asks for a writing sample to build a style profile. This profile is saved and reused across sessions. It asks where the essay is going to be published (Substack, personal blog, LinkedIn, X, or other) and uses that to calibrate tone. It also asks for a suggested word count as a starting point, then composes a draft based on your structure and this other information. After the draft, it either suggests sitting with what you've got or points you toward /critique for an honest assessment.
+This skill writes a full personal essay from structured notes in your voice. If you don't have a style profile yet, it asks for a writing sample to build one (you can upload a file, share a link, or paste text directly). This profile is saved and reused across sessions. It then asks where the essay will be published (Substack, LinkedIn, X, or other) and how long it should be, using your answers to calibrate tone and length. After the draft, it either suggests sitting with what you've got or points you toward /critique for an honest assessment.
 
 ### /critique
 
-This skill gives an honest assessment of a piece of writing in around 450 words. It opens with the single most important thing to fix, then works through remaining observations in descending order of severity. It evaluates originality, argument quality, fluff, tonal consistency, and vulnerability to criticism, focusing on the dimensions that are most relevant to your specific piece. It closes with three simulated social media reactions to show how the piece might land in public, then points you toward /revise if you want to act on the feedback.
+This skill gives an honest assessment of a piece of writing in around 450 words. If the material is deeply personal, it acknowledges that before diving in. It opens with the single most important thing to fix, then works through remaining observations in descending order of severity. It evaluates originality, argument quality, fluff, tonal consistency, and vulnerability to criticism, focusing on the dimensions most relevant to your specific piece. It closes with three simulated social media reactions to show how the piece might land in public. If the feedback points to structural problems, it'll suggest going back to /sort or /sequence rather than pushing forward to /revise.
 
 ### /revise
 
-This skill takes a draft and a set of feedback and produces a stronger draft. It implements feedback point by point while preserving your voice and everything that was already working in the underlying essay. It can push back on feedback it disagrees with rather than blindly implementing everything, and it can lightly add material to develop existing ideas, though it won't introduce new arguments. When it's done, it asks whether you'd like to move to /copyedit for a final polish, take another revision pass, or step away and read the draft on your own first.
+This skill takes a draft and a set of feedback and produces a stronger draft. It implements feedback point by point while preserving your voice and everything that was already working in the underlying essay. It can push back on feedback it disagrees with rather than blindly implementing everything, and it surfaces those disagreements clearly in the change summary so you can see exactly where it agreed and where it didn't. If the feedback reveals foundational problems, it'll say so and recommend stepping back in the pipeline rather than polishing something that isn't ready. When it's done, it asks whether you'd like to move to /copyedit for a final polish, take another revision pass, or step away and read the draft on your own first.
 
 ### /copyedit
 
-This skill does a close read of a piece of writing to check for grammar issues, punctuation errors, and sentence rhythm. It verifies every issue before flagging it to avoid false positives, and checks your style profile before making rhythm suggestions so it doesn't flatten your voice. Each suggestion cites the original passage, states the proposed change, and gives one sentence of reasoning. It can implement whatever changes you like, then when you're happy with the edits, it points you toward /title if you're ready to name the piece.
+This skill does a close read of a piece of writing to check for grammar issues, punctuation errors, and sentence rhythm. If the piece still needs structural work, it'll say so and point you toward /revise or /critique instead. It verifies every issue before flagging it to avoid false positives, and if you have a style profile, it reads that first so it doesn't flatten your voice. Each suggestion cites the original passage, states the proposed change, and gives one sentence of reasoning. It can implement whatever changes you like, then when you're happy with the edits, it points you toward /title if you're ready to name the piece.
 
 ### /title
 
@@ -49,6 +49,14 @@ This skill is for getting unstuck. Throw it whatever you have (notes, a partial 
 **How do these skills work together?**
 
 Seven of the skills form a natural pipeline: sort → sequence → compose → critique → revise → copyedit → title. Each one suggests the next step when it finishes, though you can jump in anywhere or use them independently. At key moments, the plugin will also encourage you to step away and sit with your work before moving on. Checkpoint and riff can be used at any time throughout the process.
+
+**How does it handle voice?**
+
+The plugin uses a style profile to capture how you write. The first time you use /compose or /revise without a profile, it asks for a writing sample. You can upload a file, share a link to something you've published, or paste text directly. It analyzes your sample for patterns like sentence rhythm, formality, humor, and how you handle transitions, then saves a profile that compose, revise, and copyedit can reference going forward. You can skip this step and write without a profile, or update it anytime with new samples. The other six skills (sort, sequence, critique, title, checkpoint, and riff) don't need a style profile and work immediately.
+
+**How does it handle sensitive material?**
+
+Personal essays sometimes involve difficult or unresolved experiences. The plugin is built to approach that material with care without softening its feedback. It registers what you're writing about before assessing how well you wrote it. This applies across all the skills.
 
 **Installation**
 

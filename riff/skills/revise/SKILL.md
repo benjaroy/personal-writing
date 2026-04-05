@@ -24,19 +24,21 @@ Revision is not rewriting from scratch. It's like surgery: precise, targeted, an
    - If it's a structural change: reorganize while making sure the transitions still carry the reader through.
    - If it's about argument: strengthen the logic, add evidence or acknowledgment of counterarguments, and do so without making the essay sound defensive.
 
-4. **You can push back.** If a piece of feedback would weaken the essay in your judgment, you don't have to implement it blindly. Note your disagreement with a brief explanation of why you think the original works better, then let the writer decide. This is a collaboration, not order-taking.
+4. **You can push back.** If a piece of feedback would weaken the essay in your judgment, you should push back. Include your disagreement in the change summary after the draft, with a brief explanation of why you think the original works better. Let the writer decide. This is a collaboration, not order-taking.
 
-5. **New illustrative material is allowed, but new arguments are not.** You can add scenes, examples, analogies, or details to develop existing ideas. What you should not do is introduce entirely new arguments or claims that weren't in the original draft or the feedback. The line is: supporting material yes, new thesis territory no.
+5. **Know when revision isn't enough.** If the feedback points to foundational problems (the essay doesn't have a clear argument yet, or it's structurally trying to do too many things), say so. A revision pass on a piece that needs to go back to /sort or /sequence will produce a polished version of something that doesn't work. It's better to name the problem and suggest going back than to hand the writer a draft that looks finished but isn't.
 
-6. **Maintain the writer's voice.** This is the most important part. Every sentence you revise or add should sound like it belongs in the same essay as the sentences around it. Match their sentence rhythms, their level of formality, their instinct for when to use an example vs. when to make a direct claim. If you have a style profile, lean on it. If you don't then use the draft itself as your style guide.
+6. **New illustrative material is allowed, but new arguments are not.** You can add scenes, examples, analogies, or details to develop existing ideas. What you should not do is introduce entirely new arguments or claims that weren't in the original draft or the feedback. The line is: supporting material yes, new thesis territory no.
 
-7. **Preserve strengths.** If a passage is working, namely, if it's vivid, surprising, or does something structurally important, then don't touch it unless the feedback specifically calls for it. The most common failure mode of revision is accidentally sanding down the best parts.
+7. **Maintain the writer's voice.** This is the most important part. Every sentence you revise or add should sound like it belongs in the same essay as the sentences around it. Match their sentence rhythms, their level of formality, their instinct for when to use an example vs. when to make a direct claim. If you have a style profile, lean on it. If you don't then use the draft itself as your style guide.
 
-8. **Transitions.** Every change you make ripples outward so after implementing feedback, read the full essay and make sure the transitions still flow well. A revision that fixes the argument but breaks the reading experience hasn't succeeded.
+8. **Preserve strengths.** If a passage is working, namely, if it's vivid, surprising, or does something structurally important, then don't touch it unless the feedback specifically calls for it. The most common failure mode of revision is accidentally sanding down the best parts.
+
+9. **Transitions.** Every change you make ripples outward so after implementing feedback, read the full essay and make sure the transitions still flow well. A revision that fixes the argument but breaks the reading experience hasn't succeeded.
 
 ## How to present it
 
-Present the revised draft cleanly. After the essay, add a brief summary of the key changes: a few bullet points, not narration. Each bullet should name the change and why you made it in one line. If you chose not to implement a particular piece of feedback, include that with a brief explanation.
+Always complete the full presentation and closing below, even if this skill was invoked as part of a larger conversation. Present the revised draft cleanly. After the essay, add a brief summary of the key changes: a few bullet points, not narration. Each bullet should name the change and why you made it in one line. If you chose not to implement a piece of feedback, or if you implemented it but think the original was stronger, say so clearly. The writer should be able to see exactly where you agreed with the feedback and where you didn't.
 
 Close with something in the spirit of: "Take a read through and see if this feels right. If you'd like a final polish on grammar and rhythm, the /copyedit skill can do a close read. If you want to save this version, just say 'checkpoint this.'" Then use the AskUserQuestion tool to offer a choice like "This is close, let's copyedit" / "I want another revision pass" / "Let me read this on my own first." Vary the language each time.
 
