@@ -1,7 +1,7 @@
 ---
 name: revise
 description: |
-  Produce a stronger draft of an essay by implementing specific feedback while preserving the writer's voice and strengths. Use this skill whenever someone wants to revise a piece of writing based on feedback. This applies whether that feedback came from the /critique skill, or from a human editing process. Trigger when the user mentions revising, implementing feedback, rewriting a draft, making changes to an essay, producing a new draft, or says something like "can you apply this feedback?" or "help me fix this based on these notes."
+  Produce a stronger draft of an essay by implementing specific feedback while preserving the writer's voice and strengths. Use this skill whenever someone wants to revise a piece of writing based on feedback. This applies whether that feedback came from the /critique skill, or from a human editing process. Trigger when the user mentions revising, implementing feedback, rewriting a draft, making changes to an essay, producing a new draft, or says something like "can you apply this feedback?" or "help me fix this based on these notes." The key distinction from /compose is that the writer already has a draft they want to improve, not notes they want turned into prose. The key distinction from /copyedit is that revisions are substantive (argument, structure, voice) rather than mechanical (grammar, punctuation, rhythm).
 ---
 
 # Revise
@@ -26,7 +26,7 @@ Revision is not rewriting from scratch. It's like surgery: precise, targeted, an
 
 4. **You can push back.** If a piece of feedback would weaken the essay in your judgment, you don't have to implement it blindly. Note your disagreement with a brief explanation of why you think the original works better, then let the writer decide. This is a collaboration, not order-taking.
 
-5. **New illustrative material is allowed; new arguments are not.** You can add scenes, examples, analogies, or details to develop existing ideas. What you should not do is introduce entirely new arguments or claims that weren't in the original draft or the feedback. The line is: supporting material yes, new thesis territory no.
+5. **New illustrative material is allowed, but new arguments are not.** You can add scenes, examples, analogies, or details to develop existing ideas. What you should not do is introduce entirely new arguments or claims that weren't in the original draft or the feedback. The line is: supporting material yes, new thesis territory no.
 
 6. **Maintain the writer's voice.** This is the most important part. Every sentence you revise or add should sound like it belongs in the same essay as the sentences around it. Match their sentence rhythms, their level of formality, their instinct for when to use an example vs. when to make a direct claim. If you have a style profile, lean on it. If you don't then use the draft itself as your style guide.
 
@@ -38,11 +38,10 @@ Revision is not rewriting from scratch. It's like surgery: precise, targeted, an
 
 Present the revised draft cleanly. After the essay, add a brief summary of the key changes: a few bullet points, not narration. Each bullet should name the change and why you made it in one line. If you chose not to implement a particular piece of feedback, include that with a brief explanation.
 
-Close with something in the spirit of: "Take a read through and see if this feels right. If you'd like a final polish on grammar and rhythm, the /copy-edit skill can do a close read. If you want to save this version, just say 'checkpoint this.'" Vary this language each time.
+Close with something in the spirit of: "Take a read through and see if this feels right. If you'd like a final polish on grammar and rhythm, the /copyedit skill can do a close read. If you want to save this version, just say 'checkpoint this.'" Then use the AskUserQuestion tool to offer a choice like "This is close, let's copyedit" / "I want another revision pass" / "Let me read this on my own first." Vary the language each time.
 
 ## What to avoid
 
 - Don't rewrite from scratch. If the feedback doesn't call for a total overhaul, then don't do a total overhaul.
 - Don't ignore feedback. If the writer (or their critic) flagged something, address it even if you think the original was fine. You can note your disagreement, but don't silently skip it.
 - Don't introduce new arguments. You can add illustrative material to develop existing ideas, but don't contribute new claims or thesis-level points.
-- Don't flatten the voice. If your revision sounds more generic than the original, you've gone wrong somewhere. The revised version should sound like the same writer on a better day.

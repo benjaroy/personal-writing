@@ -1,7 +1,7 @@
 ---
 name: sequence
 description: |
-  Suggest possible structures for organizing a set of ideas into an essay. Use this skill whenever someone has a set of points, ideas, or notes and wants to think about how to order or structure them for an essay. Trigger when the user mentions sequencing, structuring, structure, ordering, outlining, organizing points for an essay. Also trigger if the user asks "how should I structure this?" or "what order should these go in?" Also trigger when someone shares a list of ideas and wants to explore different ways to arrange them.
+  Suggest possible structures for organizing a set of ideas into an essay. Use this skill whenever someone has a set of points, ideas, or notes and wants to think about how to order or structure them for an essay. Trigger when the user mentions sequencing, structuring, structure, ordering, outlining, organizing points for an essay. Also trigger if the user asks "how should I structure this?", "what order should these go in?", or "outline this." Also trigger when someone shares a list of ideas and wants to explore different ways to arrange them. The writer should already have identifiable points or ideas. If the material is still raw and unstructured, use /sort first.
 ---
 
 # Sequence
@@ -28,7 +28,7 @@ Before jumping into structural proposals, take two steps:
 
 The "I'm not sure yet" option is critical and should always be the last option. If the writer picks it, run the skill exactly as it would normally run (propose structures based on your best read of the material). If the writer gives a clear intention, use it to shape the structures you propose.
 
-**2. Check for structural tension.** After getting the intention (or the "not sure" answer), assess the sorted points for structural tensions. A structural tension means: competing throughlines (the material is trying to be two different essays), a significant weight imbalance (80% of the material is diagnosis, 20% is prescription), or a tonal split (one section is personal reckoning, another is advice-giving). If you detect a real tension, use the AskUserQuestion tool to ask one targeted follow-up that names the tension concisely and asks the writer to choose a direction. Provide options specific to the tension. A real tension is one where the choice of direction would meaningfully change the shape of the essay. If it wouldn't, skip this entirely and move straight to proposing structures. Don't manufacture a question just to ask one.
+**2. Check for structural tension.** After getting the intention (or the "not sure" answer), assess the sorted points for structural tensions. A structural tension means: competing throughlines (e.g. the material is trying to be two different essays) or a significant imbalance in weight or tone (e.g. 80% diagnosis and 20% prescription, or one section is personal reckoning while another is advice-giving). If you detect a real tension, use the AskUserQuestion tool to ask one targeted follow-up that names the tension concisely and asks the writer to choose a direction. Provide options specific to the tension. A real tension is one where the choice of direction would meaningfully change the shape of the essay. If it wouldn't, skip this entirely and move straight to proposing structures. Don't manufacture a question just to ask one.
 
 ## How to do it
 
@@ -37,16 +37,14 @@ The "I'm not sure yet" option is critical and should always be the last option. 
 2. **Propose structures.** The number of proposals should match what the material supports:
 
    - If the writer's intention is clear and the material points strongly toward one structure, propose **one strong structure** with a brief note explaining why it's the clear fit, plus something like "If you'd like to see an alternative approach, I can propose one."
-   - If the material genuinely supports multiple approaches, propose **up to three structures** that are meaningfully distinct from each other. Don't force a second or third option for the sake of contrast when one is clearly better.
+   - If the material genuinely supports multiple approaches, propose **up to three structures** that are meaningfully distinct from each other. Don't force a second or third option for the sake of contrast when there are other clear and strong options.
 
    For each structure:
    - List the points in the proposed order.
-   - Add 1-3 sentences at the end explaining why this structure works for this material.
+   - Add 1-4 sentences at the end explaining why this structure works for this material.
    - Don't rewrite the points. The writer should be able to glance at each option and immediately see how the essay would flow.
 
    When proposing multiple options, label them descriptively (something like "A more straightforward approach" and "A less conventional approach," or whatever language fits the specific ideas).
-
-3. **Explain your reasoning.** After presenting options, briefly say why you think each structure fits this particular set of ideas. What does one option do well that another doesn't? Be specific to their ideas, not generic.
 
 ## How to present it
 
@@ -56,7 +54,7 @@ After presenting options, close with a light suggestion toward drafting. Somethi
 
 ## What to avoid
 
-- Don't rewrite or expand the writer's points. You're proposing an order, not adding content.
+- Don't rewrite or expand the writer's points. You're just proposing an order so don't add content.
 - Don't force multiple options when one is clearly right. One confident recommendation with an offer to explore alternatives is better than two options where one is obviously filler.
 - Don't be generic. "Start with your strongest point" is not helpful. Be specific about *which* point and *why* it should open the essay.
-- Don't explain too much. The structural logic should be clear in 1-2 short sentences per point, not a paragraph.
+- Don't explain too much. The 1-4 sentences of reasoning per structure is a ceiling, not a target.

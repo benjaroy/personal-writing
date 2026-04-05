@@ -1,0 +1,10 @@
+{
+  "name": "riff",
+  "version": "2.1.0",
+  "description": "Nine opinionated skills for writing personal essays with Claude.",
+  "author": {
+    "name": "Ben Roy"
+  },
+  "license": "MIT",
+  "keywords": ["writing", "essay", "personal writing", "editing", "creative writing", "blog"]
+}

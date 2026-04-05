@@ -1,18 +1,18 @@
 {
-  "name": "benroy-writing",
+  "name": "riff",
   "owner": {
     "name": "Ben Roy"
   },
   "plugins": [
     {
-      "name": "benroy-writing",
-      "source": "./benroy-writing",
-      "description": "Eight skills to help people write personal essays.",
+      "name": "riff",
+      "source": "./riff",
+      "description": "Nine opinionated skills for writing personal essays with Claude.",
       "author": {
         "name": "Ben Roy"
       },
       "license": "MIT",
-      "keywords": ["writing", "essay", "personal writing", "editing", "creative writing"]
+      "keywords": ["writing", "essay", "personal writing", "editing", "creative writing", "blog"]
     }
   ]
 }

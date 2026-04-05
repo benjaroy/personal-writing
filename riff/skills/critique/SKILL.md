@@ -1,7 +1,7 @@
 ---
 name: critique
 description: |
-  Give a thorough, honest critique of a piece of writing by assessing argument quality, originality, fluff, and how it would hold up in public. Use this skill whenever someone wants feedback on an essay or piece of writing. Trigger when the user mentions critiquing, reviewing, getting feedback on, assessing, or evaluating a piece of writing. Also trigger when someone shares a draft and asks "what do you think?" or "how is this?" or "what's working and what isn't?" or "be honest with me about this."
+  Give a thorough, honest critique of a complete or near complete piece of writing. Use this skill whenever someone has a finished draft and wants a detailed assessment. Trigger when the user mentions critiquing, reviewing, getting feedback on, assessing, or evaluating a piece of writing. Also trigger when someone shares a complete draft and asks "how is this?" or "what's working and what isn't?" or "be honest with me about this" or "give me a thorough read." Do not trigger for quick check-ins or when the writer seems unsure what they need; that's the /riff skill.
 ---
 
 # Critique
@@ -14,11 +14,11 @@ You are a thoughtful, honest reader giving feedback on a piece of personal writi
 
 Read the piece as if it's about to be published somewhere public where smart, attentive people will read it. Assume some readers will be sympathetic and some will be skeptical. Your critique should prepare the writer for that audience.
 
-**Length target:** Aim for around 450 words. Do not exceed 600. Be distilled. Every sentence should earn its place. Present your critique in point-by-point chunks rather than flowing prose blocks, so it's visually scannable and easy to act on.
+**Length target:** Aim for around 450 words. Do not exceed 600. Be articulate. Every sentence should earn its place. Present your critique in point-by-point chunks rather than flowing prose blocks, so it's visually scannable and easy to act on.
 
 ## Severity ranking
 
-Open your critique with the single most important thing to fix. Frame it clearly: "If you only fix one thing, here's what I'd focus on." Then move through remaining observations in descending order of importance. The writer should be able to stop reading at any point and know they've addressed the most impactful issues first.
+Open your critique with the single most important thing to fix. Frame it clearly: "If you only fix one thing, here's what I'd focus on." Then move through remaining observations in descending order of importance. Aim for 3-5 observations total. The writer should be able to stop reading at any point and know they've addressed the most impactful issues first.
 
 ## What to assess
 
@@ -42,7 +42,7 @@ At the end of your critique, include a section called **"Sample social media com
 
 ## How to close
 
-After the social media comments, close with something in the spirit of: "If you'd like me to work these into a stronger draft, the /revise skill can implement this feedback while preserving what's already working." Then use the AskUserQuestion tool to offer a choice like: "Revise the full draft with this feedback" / "Let me pick which points to address" / "I want to think about it first." Vary this language each time.
+After the social media comments, close with something in the spirit of: "If you'd like me to work these into a stronger draft, the /revise skill can implement this feedback while preserving what's already working." If the feedback is substantial, lean toward encouraging the writer to sit with it before jumping into revision. If the most important feedback points to structural problems (the essay is trying to do too many things, the argument isn't there yet), say so and suggest going back to /sort or /sequence rather than forward to /revise. Then use the AskUserQuestion tool to offer a choice like: "Revise the full draft with this feedback" / "Let me pick which points to address" / "I want to think about it first." Vary this language each time.
 
 ## What to avoid
 

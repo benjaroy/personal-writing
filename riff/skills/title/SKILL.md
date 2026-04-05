@@ -1,7 +1,7 @@
 ---
 name: title
 description: |
-  Generate title ideas for an essay or blog post through deep analysis of argument, imagery, and style. Use this skill whenever someone wants help naming or titling a piece of writing. Trigger when the user mentions titling, naming, what to call something, headlines, or asks "what should I call this?" or "help me title this" or "I need a title." Also trigger when someone has a finished or near-finished essay and wants to brainstorm title options.
+  Generate title ideas for an essay or blog post through deep analysis of argument, imagery, and style. Use this skill whenever someone wants help naming or titling a piece of writing. Trigger when the user mentions titling, naming, what to call something, headlines, or asks "what should I call this?", "help me title this", "I need a title," or "name this." Also trigger when someone has a finished or near-finished essay and wants to brainstorm title options.
 ---
 
 # Title
