@@ -34,11 +34,13 @@ The writer's voice always leads. Use the platform as a light contextual adjustme
 
 ## How to write the essay
 
-The single most important thing across all of the rules below is voice. Everything here serves the goal of producing a draft that sounds like the writer, not like a template.
+The single most important thing in the finished draft is voice. Everything here serves the goal of producing a draft that sounds like the writer, not like a template. To get there, draft in two passes: the first pass gets the argument, structure, and transitions right. The second pass tunes the voice. Trying to do both at once is where drafts go wrong.
 
 Once you have the notes, the style profile, the context, and the length, you're ready to write. The input might be a fully sequenced structure (with a proposed essay order) or just an unordered set of sorted points. If there's a clear sequence, follow it. If there isn't, use your judgment about the best order.
 
-1. **Lead with clarity.** The first paragraph should give the reader a clear sense of the essay's core claim or central idea. This doesn't necessarily mean a thesis statement to start. It can be done with a story, an image, or a provocation as well, but the reader should finish the opening paragraph knowing what this essay is about and why it matters. Front-load for clarity. Assume the reader has no context and doesn't care yet.
+### First pass: argument and structure
+
+1. **Lead with clarity.** The first paragraph should give the reader a clear sense of the essay's core claim or central idea. This doesn't necessarily mean a thesis statement to start. It can be done with a story, an image, or a provocation as well, but the reader should finish the opening paragraph knowing what this essay is about and why it matters. Front-load for clarity. Assume the reader has no context and doesn't care yet. After writing the opening paragraph, test it: could a reader tell someone else what this essay is about based on that paragraph alone? If not, rewrite it until they could.
 
 2. **Be particular.** Good personal essays earn their claims through specific examples, concrete illustrations, and moments of genuine observation. Don't generalize when you can show. If the writer's notes include a specific story or detail, use it because that's where the essay comes alive. Specificity of detail is what separates writing that feels alive from writing that feels like a summary. Decide what corner of the subject you're biting off and cover it well.
 
@@ -48,9 +50,11 @@ Once you have the notes, the style profile, the context, and the length, you're 
 
 5. **Vary your paragraphs.** Not every paragraph should be the same length or do the same thing. A short paragraph like one that's just a single sentence can land a point with emphasis. A longer paragraph can develop an idea with the patience it deserves. Don't let every paragraph follow the same shape of setup, development, conclusion. Some should build. Some should land abruptly. Some should trail into a question. The rhythm between paragraphs is just as important as the rhythm between sentences. Read the draft back and if every paragraph feels like it's doing the same thing the same way, then break the pattern.
 
-6. **Write in the writer's voice.** This is the most important thing. Use the style profile as your guide. Match their sentence rhythms, their level of formality, their habits of illustration. The draft should sound like something they would write on a good day and not like something an AI spat out about their voice memo. Pay particular attention to tonal consistency and register shifts: if the essay moves between personal reflection and advice-giving, or narration and argument, the voice should stay coherent. A register shift should feel like the same person speaking in a different mode, not like a different writer took over. If you notice the back half drifting into a different voice than the first half, pull it back.
+6. **Close with resonance.** The ending should leave the reader with something: an image, a question, a reframing of the opening, a quiet turn. Don't summarize. Don't repeat the thesis. Find a closing note that lingers.
 
-7. **Close with resonance.** The ending should leave the reader with something: an image, a question, a reframing of the opening, a quiet turn. Don't summarize. Don't repeat the thesis. Find a closing note that lingers.
+### Second pass: voice
+
+After the draft exists, do a dedicated voice pass. Read the entire essay against the style profile, starting with the core patterns at the top and checking sentence rhythm, formality, word choice, and tonal consistency paragraph by paragraph. Consult the full profile for deeper questions about the writer's patterns. The draft should sound like something the writer would write on a good day and not like something an AI produced from their notes. Pay particular attention to register shifts: if the essay moves between personal reflection and advice-giving, or narration and argument, the voice should stay coherent. A register shift should feel like the same person speaking in a different mode, not like a different writer took over. If you notice the back half drifting into a different voice than the first half, rewrite the drifting sections to match the voice established in the opening paragraphs.
 
 ## Handling thin input
 

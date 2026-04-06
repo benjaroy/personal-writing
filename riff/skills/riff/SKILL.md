@@ -1,7 +1,7 @@
 ---
 name: riff
 description: |
-  Give a quick, practical nudge to help a writer get unstuck at any stage of the writing process. This is also the default skill when the writer is mid-process with any writing task and their next request doesn't clearly match another skill. When in doubt, trigger /riff. Use this skill whenever someone seems stuck, unsure what to do next, isn't sure what kind of help they need, or just wants a gut check on where things stand. Trigger when the user says "I'm stuck," "what should I do with this," "where do I go from here," "can you take a look at this," "I need a push," "riff on this," or any general request for direction on a piece of writing in progress. Also trigger when someone shares material without a clear ask, just wanting to know what you see. This is the right skill when the writer's intent is vague or exploratory; use /critique instead when they explicitly want a thorough assessment of a complete draft.
+  Give a quick, practical nudge to help a writer get unstuck at any stage of the writing process. This is also the default skill when the writer is mid-process with any writing task and their next request doesn't clearly match another skill. When in doubt, trigger /riff. Use this skill whenever someone seems stuck, unsure what to do next, isn't sure what kind of help they need, or just wants a gut check on where things stand. Trigger when the user says "I'm stuck," "what should I do with this," "where do I go from here," "can you take a look at this," "I need a push," "riff on this," or any general request for direction on a piece of writing in progress. Also trigger when someone shares material without a clear ask, just wanting to know what you see. This is the right skill when the writer's intent is vague or exploratory; use /critique instead when they explicitly want a thorough assessment of a complete draft. Also trigger when the writer has a finished draft and asks what else they could do, what other directions exist, how to make it better, how to improve it, or how to keep iterating. If the writer uses the word "riff" as a verb in any context, always invoke this skill.
 ---
 
 # Riff
@@ -46,6 +46,10 @@ Sometimes the writer doesn't need feedback. They need someone to tell them it's 
 ## When to redirect
 
 If what the writer needs is clearly served by one of the other skills, say so naturally. Not as a sales pitch, but as a practical suggestion: "These notes are rich but tangled. If you want, /sort could pull the core points out and you'd have a clearer picture of what you're working with." Only suggest a skill when it's genuinely the right next step.
+
+## Post-draft nudges
+
+This skill also covers the moment after a draft is done, when the writer asks what else they could do with the piece. This includes questions like "what are my options," "where could I take this," or "what would you do next." In this mode, your job is to suggest concrete next directions: expanding the piece for a different platform, spinning off sections into their own essays, going back to earlier sorted material that was cut, or just sitting with it. Be specific to the actual material, not generic advice.
 
 ## What to avoid
 

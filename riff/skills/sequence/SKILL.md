@@ -40,9 +40,11 @@ Do not propose any structures until you have the writer's answer. Stop here and 
 
    When proposing multiple options, label them descriptively (something like "A more straightforward approach" and "A less conventional approach," or whatever language fits the specific ideas).
 
+   When presenting multiple structures, include a brief transitional sentence between each one that frames how the next structure differs from the one before. One or two sentences, something like "Here's a different way in to the same material" or "If you wanted to lead with the argument instead of building toward it, this is what that looks like."
+
 ## How to present it
 
-Always complete the full presentation and closing below, even if this skill was invoked as part of a larger conversation. Open by acknowledging what you see in their material. Keep it casual, something in the spirit of "There are a few interesting ways these ideas could come together" or "Here's what I'd suggest." Vary this each time.
+Always complete the full presentation and closing below, even if this skill was invoked as part of a larger conversation. Open by acknowledging what you see in their material and stating how many structures you're about to propose. Keep it casual, something in the spirit of "I see three interesting ways these ideas could come together" or "I think there are two strong options here." Vary this each time.
 
 After presenting options, close with a light suggestion toward drafting, something in the spirit of: "Once you've picked a direction, /compose can turn this into a full essay, or you can rearrange things yourself first. Let me know." Vary this language each time.
 

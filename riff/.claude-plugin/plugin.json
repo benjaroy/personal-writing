@@ -1,6 +1,6 @@
 {
   "name": "riff",
-  "version": "2.2.1",
+  "version": "2.3.0",
   "description": "Nine opinionated skills for writing personal essays with Claude.",
   "author": {
     "name": "Ben Roy"

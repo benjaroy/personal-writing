@@ -34,7 +34,7 @@ You're reading through everything a user has given you, then finding the signal 
 
 ## Junk drawer
 
-If there are residual ideas, illustrations, or points that don't fit into the structure you've built, don't silently drop them. Include a short section at the end labeled something like "Didn't quite fit, but worth keeping in your back pocket" with these leftover ideas, still condensed and distilled. The writer can decide whether to pull anything back in.
+If there are residual ideas, illustrations, or points that don't fit into the structure you've built, don't silently drop them. Include a short section at the end for these leftover ideas, still condensed and distilled. Label it in plain language that signals "these didn't fit the main structure but might be useful later." Vary the wording each time. The writer can decide whether to pull anything back in.
 
 ## How to present it
 
