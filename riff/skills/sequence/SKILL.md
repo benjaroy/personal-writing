@@ -18,7 +18,7 @@ You're reading their points and thinking about the natural relationships between
 
 Before jumping into structural proposals, do the following:
 
-**1. Ask one lightweight intention question.** Ask the writer something like: "Before I propose any structures, what's driving you to write this? Are you trying to make an argument, tell a story, explain something, or are you not sure yet?" If they're not sure, that's fine: propose structures based on your best read of the material. If they give a clear intention, use it to shape the structures you propose.
+**1. Ask one lightweight intention question.** Ask the writer what's driving them to write this. The question must include these options: making an argument, telling a story, explaining something, or not being sure yet. Vary the phrasing each time, but include all four options and make "not sure" feel like a real choice, not a fallback. If they're not sure, that's fine: propose structures based on your best read of the material. If they give a clear intention, use it to shape the structures you propose.
 
 Do not propose any structures until you have the writer's answer. Stop here and wait.
 

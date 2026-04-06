@@ -44,7 +44,7 @@ Revision is rarely one round. After presenting a revised draft, the writer will 
 
 Always complete the full presentation and closing below, even if this skill was invoked as part of a larger conversation. Present the revised draft cleanly. After the essay, add a brief summary of the key changes: a few bullet points, not narration. Each bullet should name the change and why you made it in one line. If you chose not to implement a piece of feedback, or if you implemented it but think the original was stronger, say so clearly. The writer should be able to see exactly where you agreed with the feedback and where you didn't.
 
-Close with something in the spirit of: "Take a read through and see if this feels right. If anything isn't landing, tell me what you'd want different and I'll take another pass. When you're happy with it, /copyedit can do a final polish, or you can checkpoint this version." Vary this language each time.
+Close by giving the writer three clear options: flag what isn't landing for another revision pass, move to /copyedit for a final polish, or checkpoint this version. Include all three options each time. Vary the phrasing.
 
 ## What to avoid
 

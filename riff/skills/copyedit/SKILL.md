@@ -46,7 +46,7 @@ Always complete the full presentation and closing below, even if this skill was 
 
 Present suggestions grouped by type if clearer, or in order of appearance if there aren't many. Use your judgment.
 
-At the end, close with something in the spirit of: "These are suggestions. If any go against a deliberate choice, ignore them. If you'd like me to implement all of these, just say the word. And if you're ready to name the piece, the /title skill can help you find the right one." Vary this each time.
+At the end, close by making three things clear: these are suggestions and the writer should ignore any that conflict with deliberate choices, you can implement the changes if they say the word, and /title can help name the piece when they're ready. Include all three each time. Vary the phrasing.
 
 ## If asked to implement
 
