@@ -22,7 +22,7 @@ You're reading through everything a user has given you, then finding the signal 
 
 3. Consolidate into a summary of **7 to 10 points**, though you may go up to 14 when the material genuinely demands it. When the writer expresses similar things in different ways, group them intentionally or choose the strongest version and fold the others in as sub-points. Don't let three versions of the same idea take up three separate bullets. Be deliberate about which framing carries the most weight and use that as the lead. Each point should be:
    - Short and direct. 1-2 sentences.
-   - Up to 1-3 sub-points are allowed for nesting essential context or related ideas, references, or illustrations under broader themes.
+   - Up to 3 sub-points are allowed for nesting essential context or related ideas, references, or illustrations under broader themes.
 
    If you had to compress aggressively to stay within range, flag this briefly at the end so the writer knows what got folded in and can push back if something important was lost.
 
@@ -42,7 +42,7 @@ Always complete the full presentation and closing below, even if this skill was 
 
 Then present the consolidated points.
 
-After the summary (and junk drawer, if applicable), close with a nudge toward the next step. If the writer wants to explore how these points might come together as an essay, the /sequence skill can help them find a structure. If the material was complex or personal, or if you had to consolidate aggressively, suggest the writer take time with the sorted points before moving on. Use the AskUserQuestion tool to ask whether they'd like to move into sequencing, with options like "Yes, let's sequence these" / "Not yet, I want to sit with these first" / "I'd rather go straight to writing." Vary the phrasing of this closing each time.
+After the summary (and junk drawer, if applicable), close with a brief natural prompt toward next steps. If the writer wants to explore how these points might come together as an essay, /sequence can help. If the material was complex or personal, suggest sitting with the sorted points first. Vary this language each time.
 
 ## What to avoid
 

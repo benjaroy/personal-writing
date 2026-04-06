@@ -14,15 +14,15 @@ Read it silently and use it as your reference for voice, tone, and style through
 
 **Sort, sequence, critique, copyedit, title, checkpoint, and riff** do not require a style profile. If you are running one of these skills, skip the rest of this section and begin working immediately.
 
-**Compose and revise** generate new prose in the writer's voice and need a style profile. If you are running one of these skills and no profile exists, your very next action is to use the AskUserQuestion tool to ask:
+**Compose and revise** generate new prose in the writer's voice and need a style profile. If you are running one of these skills and no profile exists, your very next action is to ask:
 
-> "Every writer sounds different, and I'd like to work in your voice, but I don't have a sense of your style yet, so could you share a sample of your writing? You can upload a file, share a link to something you've published online, or paste text directly. Written samples work best: blog posts, essays, drafts, anything with your voice on the page. I'll analyze whatever you share and use it to learn your voice, then build a style profile that we can use going forward."
+> "Every writer sounds different, and I'd like to work in your voice, but I don't have a sense of your style yet, so could you share a sample of your writing? You can upload a file, share a link to something you've published online, or paste text directly. Written samples work best: blog posts, essays, drafts, anything with your voice on the page. I'll analyze whatever you share and use it to learn your voice, then build a style profile that we can use going forward. If you'd rather skip this for now, just say so and I'll write in a clean, direct voice."
 
-With options: "I'll upload a file" / "I'll share a link" / "I'll paste text here" / "Skip this for now"
+Stop here and wait for the writer's response before doing anything else. Once they respond, follow the instructions below based on what they chose.
 
-If they pick "I'll upload a file," "I'll share a link," or "I'll paste text here," respond with something like: "Sounds good, I'll analyze it as soon as you share it." Then wait for them to provide their sample.
+If they provide the sample directly in their response (pasted text, a file, or a link), analyze it immediately. If they say they'll share something but haven't provided it yet, say something like "Sounds good, send it over whenever you're ready" and wait.
 
-If they pick "Skip this for now," write in a clean, direct voice without a specific profile. Let the writer know they can build a style profile anytime by sharing a sample, then proceed with the skill.
+If they choose to skip, write in a clean, direct voice without a specific profile. Let the writer know they can build a style profile anytime by sharing a sample, then proceed with the skill.
 
 Once they provide their sample (URL, file, or pasted text), analyze it for:
 

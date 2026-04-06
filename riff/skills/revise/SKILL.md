@@ -40,7 +40,7 @@ Revision is not rewriting from scratch. It's like surgery: precise, targeted, an
 
 Always complete the full presentation and closing below, even if this skill was invoked as part of a larger conversation. Present the revised draft cleanly. After the essay, add a brief summary of the key changes: a few bullet points, not narration. Each bullet should name the change and why you made it in one line. If you chose not to implement a piece of feedback, or if you implemented it but think the original was stronger, say so clearly. The writer should be able to see exactly where you agreed with the feedback and where you didn't.
 
-Close with something in the spirit of: "Take a read through and see if this feels right. If you'd like a final polish on grammar and rhythm, the /copyedit skill can do a close read. If you want to save this version, just say 'checkpoint this.'" Then use the AskUserQuestion tool to offer a choice like "This is close, let's copyedit" / "I want another revision pass" / "Let me read this on my own first." Vary the language each time.
+Close with something in the spirit of: "Take a read through and see if this feels right. If you'd like a final polish on grammar and rhythm, /copyedit can do a close read. If you want to save this version, just say 'checkpoint this.'" Vary this language each time.
 
 ## What to avoid
 

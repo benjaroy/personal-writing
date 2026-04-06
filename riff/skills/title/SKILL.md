@@ -41,7 +41,7 @@ Open with a brief (2-3 sentence) summary of what you're keying into: the core te
 
 Then present the three categories with their options.
 
-After presenting, use the AskUserQuestion tool to ask something like: "Do any of these stick out to you?" with options like "Yes, a few caught my eye" / "Nothing yet, try a different angle" / "I like the direction of one, dig deeper on it."
+After presenting, ask the writer directly: do any of these land? If something catches their eye, ask which direction and dig deeper. If nothing's clicking, say so and offer to come at it from a different angle. The key is to make clear you're ready to keep going. Vary this language each time.
 
 ## Iterative follow-up
 

@@ -38,7 +38,7 @@ If the writer wants to go back to an earlier version, present the checkpoint and
 
 Open casually, something in the spirit of "Here's what I've got saved" or "Let me pull that up for you." Vary this each time.
 
-After saving a checkpoint, close with a brief natural prompt, something in the spirit of: "Saved. You can keep writing, get a critique, or come back to this version anytime." No AskUserQuestion needed. Vary the language each time.
+After saving a checkpoint, close with a brief natural prompt, something in the spirit of: "Saved. You can keep writing, get a critique, or come back to this version anytime." Vary the language each time.
 
 After listing checkpoints, close naturally with something like "Let me know if you want to open any of these." No formal prompt needed.
 

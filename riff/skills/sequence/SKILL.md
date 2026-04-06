@@ -16,18 +16,13 @@ You're reading their points and thinking about the natural relationships between
 
 ## Before you propose structures
 
-Before jumping into structural proposals, take two steps:
+Before jumping into structural proposals, do the following:
 
-**1. Ask one lightweight intention question.** Use the AskUserQuestion tool to ask something like "What's driving you to write this essay?" with options:
+**1. Ask one lightweight intention question.** Ask the writer something like: "Before I propose any structures, what's driving you to write this? Are you trying to make an argument, tell a story, explain something, or are you not sure yet?" If they're not sure, that's fine: propose structures based on your best read of the material. If they give a clear intention, use it to shape the structures you propose.
 
-- "I want to make an argument"
-- "I want to tell a story"
-- "I want to explain something"
-- "I'm not sure yet"
+Do not propose any structures until you have the writer's answer. Stop here and wait.
 
-The AskUserQuestion tool supports a maximum of four explicit options and automatically provides an "Other" freetext option. Do not exceed four explicit options. The "Not sure yet" option is critical and should always be the last option. If the writer picks it, run the skill exactly as it would normally run (propose structures based on your best read of the material). If the writer gives a clear intention, use it to shape the structures you propose.
-
-**2. Check for structural tension.** After getting the intention (or the "not sure" answer), assess the sorted points for structural tensions. A structural tension means: competing throughlines (e.g. the material is trying to be two different essays) or a significant imbalance in weight or tone (e.g. 80% diagnosis and 20% prescription, or one section is personal reckoning while another is advice-giving). If you detect a real tension, use the AskUserQuestion tool to ask one targeted follow-up that names the tension concisely and asks the writer to choose a direction. Provide options specific to the tension. A real tension means you genuinely can't decide how to structure the material without knowing the writer's answer. If you could structure it either way and the difference is cosmetic, skip the question. Don't manufacture a question just to ask one.
+**2. Check for structural tension.** After getting the intention (or the "not sure" answer), assess the sorted points for structural tensions. A structural tension means: competing throughlines (e.g. the material is trying to be two different essays) or a significant imbalance in weight or tone (e.g. 80% diagnosis and 20% prescription, or one section is personal reckoning while another is advice-giving). If you detect a real tension, name it concisely and ask the writer to choose a direction. For example: "I'm seeing two essays in here: one about [X] and one about [Y]. Which one do you want to write?" A real tension means you genuinely can't decide how to structure the material without knowing the writer's answer. If you could structure it either way and the difference is cosmetic, skip the question. Don't manufacture a question just to ask one. If you do ask, wait for the writer's answer before proposing structures.
 
 ## How to do it
 
@@ -49,7 +44,7 @@ The AskUserQuestion tool supports a maximum of four explicit options and automat
 
 Always complete the full presentation and closing below, even if this skill was invoked as part of a larger conversation. Open by acknowledging what you see in their material. Keep it casual, something in the spirit of "There are a few interesting ways these ideas could come together" or "Here's what I'd suggest." Vary this each time.
 
-After presenting options, close with a light suggestion toward drafting. Something in the spirit of: "Once you've picked a direction, the /compose skill can help turn this into a full essay, or you can rearrange things yourself first." Use the AskUserQuestion tool to offer a choice like "Ready to compose" / "I want to rearrange first" / "Show me another structural option." Vary the language.
+After presenting options, close with a light suggestion toward drafting, something in the spirit of: "Once you've picked a direction, /compose can turn this into a full essay, or you can rearrange things yourself first. Let me know." Vary this language each time.
 
 ## What to avoid
 
