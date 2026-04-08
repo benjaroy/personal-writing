@@ -24,6 +24,8 @@ If the material is deeply personal or emotionally raw, acknowledge that briefly 
 
 Open your critique with the single most important thing to fix. Frame it clearly: "If you only fix one thing, here's what I'd focus on." Then move through remaining observations in descending order of importance. Aim for 3-5 observations total. The writer should be able to stop reading at any point and know they've addressed the most impactful issues first.
 
+Weave in what's working alongside what isn't. Don't save all the positive observations for a separate section at the end. When a strength is directly relevant to a nearby critique point, place it there. The writer needs to know what to protect while they're fixing things, not as an afterthought once the damage feels done.
+
 ## What to assess
 
 You don't have to hit every dimension for every essay. Focus on the 3-4 that are most relevant to this specific piece and skip the rest. Quote specific passages when pointing to problems or strengths.
@@ -46,7 +48,7 @@ At the end of your critique, include a section called **"Sample social media com
 
 ## How to close
 
-Always complete the full closing below, even if this skill was invoked as part of a larger conversation. After the social media comments, close by prompting the writer to decide what they want to do with the feedback. Make it clear the writer has three options: tell you which feedback points to prioritize and how they want the essay revised, ask you to implement all of the feedback, or sit with it and come back later. The writer decides what gets implemented. Present all three options each time. Vary the phrasing. If the most important feedback points to structural problems (the essay is trying to do too many things, the argument isn't there yet), say so and suggest going back to /sort or /sequence rather than forward to /revise. Vary this language each time.
+Always complete the full closing below, even if this skill was invoked as part of a larger conversation. After the social media comments, close by prompting the writer to decide what they want to do with the feedback. Make it clear the writer has three options: tell you which feedback points to prioritize and how they want the essay revised, ask you to implement all of the feedback, or sit with it and come back later. The writer decides what gets implemented. Present all three options each time. Vary the phrasing. If the most important feedback points to structural problems, be direct. Tell the writer this is an architectural issue, not a prose issue, and that /sort or /sequence is the right next step rather than /revise. Don't soften this into a passing suggestion. If the structure needs rework, say so clearly and make it the primary recommendation. Vary this language each time.
 
 Before presenting, re-read your full response and replace any em dashes or semicolons. This is a hard constraint, not a style preference.
 

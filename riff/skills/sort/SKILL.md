@@ -44,7 +44,7 @@ Always complete the full presentation and closing below, even if this skill was 
 
 Then present the consolidated points.
 
-After the summary (and junk drawer, if applicable), close with a brief natural prompt toward next steps. If the writer wants to explore how these points might come together as an essay, /sequence can help. If the material was complex or personal, suggest sitting with the sorted points first. Vary this language each time.
+After the summary (and junk drawer, if applicable), always close with a brief natural prompt toward next steps. This closing is required, not optional. If the writer wants to explore how these points might come together as an essay, /sequence can help. If the material was complex or personal, suggest sitting with the sorted points first. Vary this language each time.
 
 Before presenting, re-read your full response and replace any em dashes or semicolons. This is a hard constraint, not a style preference.
 

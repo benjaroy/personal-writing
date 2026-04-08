@@ -33,7 +33,7 @@ Present titles in three categories:
 
 **Three-word titles.** A little more room to be specific or create a small rhythm. Generate 3-5 options.
 
-**Longer titles (up to 10 words).** These can be more descriptive, pose a question, or set up a tension. Generate 3-5 options.
+**Longer titles (up to 10 words).** These can be more descriptive, pose a question, or set up a tension. Generate 3-5 options. Do not exceed 5 in any category.
 
 For each title, don't explain it. Let the titles speak for themselves. The writer will feel which ones resonate.
 
