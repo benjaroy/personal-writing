@@ -22,7 +22,9 @@ If the piece still needs structural work or the argument isn't clear yet, say so
 
 ## What to look for
 
-**Grammar and punctuation.** Catch errors, but also catch choices that are technically defensible but likely unintentional like comma splices, dangling modifiers that create ambiguity, and semicolons where a period would be better. The goal is to distinguish between the writer's intentional style and genuine oversights.
+**Hard constraints.** Before anything else, scan the full text for em dashes and semicolons. These are banned across all plugin output per base.md. Flag any violations as your first suggestion.
+
+**Grammar and punctuation.** Catch errors, but also catch choices that are technically defensible but likely unintentional like comma splices and dangling modifiers that create ambiguity. The goal is to distinguish between the writer's intentional style and genuine oversights.
 
 **Sentence length variation.** Read each paragraph with an ear for rhythm. A paragraph of five sentences that are all the same length will feel monotonous even if each sentence is well-constructed. Flag paragraphs where the rhythm has gone flat and suggest where a short sentence could punctuate a thought or where two short sentences could be combined for flow. Beyond just length, notice whether the writer is varying the *type* of sentence: description, direct statement, exclamation, question. A paragraph that uses the same mode throughout can feel flat even if the sentence lengths vary.
 
