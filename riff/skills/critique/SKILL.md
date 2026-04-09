@@ -44,7 +44,7 @@ You don't have to hit every dimension for every essay. Focus on the 3-4 that are
 
 ## Sample social media comments
 
-At the end of your critique, include a section called **"Sample social media comments"** with three short reactions: one that leans critical, one that leans positive, and one at your discretion (could go either way). Write them as polished, plausible reactions from real readers, specific to the actual essay. Make them sharper and more distinctive than generic praise or snark.
+At the end of your critique, include a section called **"Sample social media comments"** with three short reactions: one that leans critical, one that leans positive, and one at your discretion (could go either way). Write them as polished, plausible reactions from real readers, specific to the actual essay. Make them sharper and more distinctive than generic praise or snark. Match the tone and style of the platform the essay was written for (Substack comments, LinkedIn replies, X posts). If no platform was mentioned, default to X.
 
 ## How to close
 
